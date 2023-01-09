@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-
 - 👀 I am Matteo, born in 2002 in Milan
 - 🎓 I graduated high school in 2021
-- 🌱 I’m currently studying Artificial Intelligence & Machine Learning
-- 💕 Interests: Chess, NLP, AI & Machine Learning projects
+- 🤖 I’m currently studying Artificial Intelligence & Machine Learning
+- 💕 Interests: Chess♟️, NLP 🤖💬, AI & Machine Learning projects 🚀 and Calisthenics 🏋️‍♂️
 
 ### Tech Stack
-#### AI&ML Related
+#### AI & ML Related
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -26,3 +25,6 @@
 #### Tools & Extra
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+Feel free to contact me for any job or collaboration opportunities. 📩 matvinsch@gmail.com

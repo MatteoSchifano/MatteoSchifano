@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 👀 I am Matteo, born in 2002 in Milan
-- 🎓 I graduated high school in 2021
-- 🤖 I’m currently studying Artificial Intelligence & Machine Learning
+- 🎓 I graduated with high honors in Artificial Intelligence & Machine Learning in 2023.
+- 🧑‍💼 I’m currently collaborate with software house e market research frelance 
 - 💕 Interests: Chess♟️, NLP 🤖💬, AI & Machine Learning projects 🚀 and Calisthenics 🏋️‍♂️
 
 ### Tech Stack
